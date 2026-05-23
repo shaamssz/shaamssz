@@ -73,7 +73,7 @@
 <hr>
 
 <p>
-  <a href="www.linkedin.com/in/abdulaziz-abidzhanov-62656b343">
+  <a href=""https://linkedin.com/in/abdulaziz-abidzhanov-62656b343/"> 
     🔗 Connect with me on LinkedIn
   </a>
 </p>
