@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="[REPO_LINK_1]">Online Retail Analysis: Where the Revenue Really Comes From</a></h3>
+      <h3>📊 <a href="https://github.com/shaamssz/Python-Data-Analysis-project-on-retail-sales-">Online Retail Analysis: Where the Revenue Really Comes From</a></h3>
       <p>
         An end-to-end analysis of ~542K transactions from a UK online gift retailer,
         uncovering how a narrow slice of products, customers, and markets drives the
