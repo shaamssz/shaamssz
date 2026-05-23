@@ -45,7 +45,7 @@
       <p><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code> <code>Jupyter</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📉 <a href="[REPO_LINK_2]">Customer Churn Analysis — Databel</a></h3>
+      <h3>📉 <a href="https://github.com/shaamssz/Customer-Churn-Analysis---Databel-Telecom">Customer Churn Analysis — Databel</a></h3>
       <p>
         A structured analysis of churn behaviour across 6,687 telecom customers,
         identifying the key drivers behind a 26.9% overall churn rate. Investigated
