@@ -39,18 +39,18 @@
         An end-to-end analysis of ~542K transactions from a UK online gift retailer,
         uncovering how a narrow slice of products, customers, and markets drives the
         overwhelming majority of revenue. Applied ABC/Pareto product tiering, RFM
-        customer segmentation, and geographic &amp; seasonality analysis — including a
+        customer segmentation, and geographic &amp; seasonality analysis - including a
         hidden ~55% return rate in the long-tail tier and a Q4 peak of ~£1.4M in November.
       </p>
       <p><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code> <code>Jupyter</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📉 <a href="https://github.com/shaamssz/Customer-Churn-Analysis---Databel-Telecom">Customer Churn Analysis — Databel</a></h3>
+      <h3>📉 <a href="https://github.com/shaamssz/Customer-Churn-Analysis---Databel-Telecom">Customer Churn Analysis - Databel</a></h3>
       <p>
         A structured analysis of churn behaviour across 6,687 telecom customers,
         identifying the key drivers behind a 26.9% overall churn rate. Investigated
         contract type, international plan usage, customer service calls, and demographic
-        segments — finding international plan customers churn at rates up to 75% in
+        segments - finding international plan customers churn at rates up to 75% in
         certain states, with month-to-month contracts as a primary risk factor.
       </p>
       <p><code>Excel</code> <code>Power Query</code> <code>Power Pivot</code></p>
@@ -67,7 +67,7 @@
   <li>🛠 Building end-to-end data projects to strengthen my portfolio</li>
   <li>🗄 Learning SQL and PostgreSQL to work with relational databases</li>
   <li>🌐 Exploring open source datasets to find interesting real-world patterns</li>
-  <li>💼 Open to internship opportunities — let's connect!</li>
+  <li>💼 Open to internship opportunities - let's connect!</li>
 </ul>
 
 <hr>
