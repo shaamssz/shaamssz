@@ -36,11 +36,7 @@
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/shaamssz/Python-Data-Analysis-project-on-retail-sales-">Online Retail Analysis: Where the Revenue Really Comes From</a></h3>
       <p>
-        An end-to-end analysis of ~542K transactions from a UK online gift retailer,
-        uncovering how a narrow slice of products, customers, and markets drives the
-        overwhelming majority of revenue. Applied ABC/Pareto product tiering, RFM
-        customer segmentation, and geographic &amp; seasonality analysis - including a
-        hidden ~55% return rate in the long-tail tier and a Q4 peak of ~£1.4M in November.
+       An end-to-end analysis of about 542K transactions from a UK online gift retailer, looking at how a narrow slice of         products, customers, and markets brings in most of the revenue. I used ABC/Pareto product tiering, RFM customer            segmentation, and geographic and seasonality analysis. Two findings stood out: long-tail products come back at             roughly 55% return rate, and demand peaks hard in November at about £1.4M.
       </p>
       <p><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code> <code>Jupyter</code></p>
     </td>
