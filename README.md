@@ -45,13 +45,9 @@
       <p><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code> <code>Jupyter</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📉 <a href="https://github.com/shaamssz/Customer-Churn-Analysis---Databel-Telecom">Customer Churn Analysis - Databel</a></h3>
+      <h3>📉 <a href="https://github.com/shaamssz/RavenStack-SaaS-Subscription-Churn-Revenue-Retention-Analysis">RavenStack SaaS: Subscription Churn & Revenue Retention Analysis</a></h3>
       <p>
-        A structured analysis of churn behaviour across 6,687 telecom customers,
-        identifying the key drivers behind a 26.9% overall churn rate. Investigated
-        contract type, international plan usage, customer service calls, and demographic
-        segments - finding international plan customers churn at rates up to 75% in
-        certain states, with month-to-month contracts as a primary risk factor.
+      An end-to-end churn and revenue analysis for RavenStack, a B2B SaaS company with 500 accounts and $11.3M in MRR,           built entirely in Excel with Power Query, Power Pivot (DAX), and an interactive dashboard. It tests three common           assumptions about why customers leave. Two of them don't hold up: engagement and support quality look about the same       whether an account churned or stayed. The result that does matter comes from splitting customer churn from revenue         churn. All three plan tiers churn at the same 22% rate, but the picture changes once you weight it by money:               DevTools loses the most accounts, while Cybersecurity loses the most revenue. 
       </p>
       <p><code>Excel</code> <code>Power Query</code> <code>Power Pivot</code></p>
     </td>
