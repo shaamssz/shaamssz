@@ -3,12 +3,11 @@
      Replace [REPO_LINK_1], [REPO_LINK_2], and [YOUR-LINKEDIN-HANDLE]
 ====================================== -->
 
-<h1>👋 Hi, I'm Abdulaziz</h1>
+<h1>👋 Hi, I'm Aziz</h1>
 
 <p>
-  An aspiring Data Analyst passionate about turning raw data into clear,
-  actionable insights. I'm currently studying and building hands-on projects
-  that bridge the gap between data and decision-making.
+  An aspiring Data & Analytics Engineer passionate about creating scalable end-to-end systems for reliable data storage, processing and analytics. I'm currently studying and building hands-on projects
+  that standardize and automate data processing and analytics. 
 </p>
 
 <hr>
@@ -55,11 +54,10 @@
 <h2>📚 Learning journey</h2>
 
 <ul>
-  <li>🔍 Currently deepening my skills in data analysis, statistics, and data visualisation</li>
+  <li>🔍 Currently deepening my skills in Data & Analytics Engineering, statistics, and codingn</li>
   <li>🛠 Building end-to-end data projects to strengthen my portfolio</li>
   <li>🗄 Learning SQL and PostgreSQL to work with relational databases</li>
   <li>🌐 Exploring open source datasets to find interesting real-world patterns</li>
-  <li>💼 Open to internship opportunities - let's connect!</li>
 </ul>
 
 <hr>
